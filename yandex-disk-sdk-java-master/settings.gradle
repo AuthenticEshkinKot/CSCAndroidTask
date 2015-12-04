@@ -1,0 +1,3 @@
+rootProject.name = 'yandex-disk-sdk'
+
+include ':yandex-disk-sdk', ':yandex-disk-sdk-example'
